@@ -1,7 +1,7 @@
 # SteamFastAPI
 
 
-### Este primer proyecto individual nos hará recorrer el ciclo de Machine Learning Operations, partiendo de un dataset de juegos de la plataforma Steam, hasta llegar a un modelo de Machine Learning de recomendacion de juegos, en este caso se eleigio un modelo user-item.
+### Este primer proyecto individual nos hará recorrer el ciclo de Machine Learning Operations, partiendo de un dataset de juegos de la plataforma Steam, hasta llegar a un modelo de Machine Learning de recomendacion de juegos, en este caso se eligio un modelo user-item.
 
 <br>
 <div style="text-align: right; color: violet; font-size: 1.2em; font-weight: bold;">
@@ -102,5 +102,16 @@ def recomienda_usuario(id_usuario: str):
 ```
 
 # <h1 align=center> **Entregables**</h1>
+
+
+## Aplicación de FAST API - SteamFastApi
+
+La aplicación se encuentra disponible en [la siguiente ubicación](https://steam-fastapi.onrender.com/). Tener en cuenta que Render apaga las aplicaciones, dar tiempo a que construya el contenedor y reinicie la app.
+
+
+## Video
+
+[Video]https://youtu.be/6Tv-eBoc4fY
+
 
 
